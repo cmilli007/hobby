@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    width: 80%;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.book {
+    margin-bottom: 20px;
+}
+
+.book img {
+    display: block;
+    margin: 4px;
+}
+
+.book h2, .book p {
+    text-align: center;
+}
